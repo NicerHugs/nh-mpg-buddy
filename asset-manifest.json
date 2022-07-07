@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea81fd52.css",
-    "main.js": "/static/js/main.51d15a74.js",
-    "static/js/787.a9120f67.chunk.js": "/static/js/787.a9120f67.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.ea81fd52.css.map": "/static/css/main.ea81fd52.css.map",
-    "main.51d15a74.js.map": "/static/js/main.51d15a74.js.map",
-    "787.a9120f67.chunk.js.map": "/static/js/787.a9120f67.chunk.js.map"
+    "main.css": "/nh-mpg-buddy/static/css/main.ea81fd52.css",
+    "main.js": "/nh-mpg-buddy/static/js/main.8920f878.js",
+    "static/js/787.a9120f67.chunk.js": "/nh-mpg-buddy/static/js/787.a9120f67.chunk.js",
+    "service-worker.js": "/nh-mpg-buddy/service-worker.js",
+    "index.html": "/nh-mpg-buddy/index.html",
+    "main.ea81fd52.css.map": "/nh-mpg-buddy/static/css/main.ea81fd52.css.map",
+    "main.8920f878.js.map": "/nh-mpg-buddy/static/js/main.8920f878.js.map",
+    "787.a9120f67.chunk.js.map": "/nh-mpg-buddy/static/js/787.a9120f67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea81fd52.css",
-    "static/js/main.51d15a74.js"
+    "static/js/main.8920f878.js"
   ]
 }
